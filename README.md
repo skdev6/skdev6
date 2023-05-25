@@ -8,7 +8,7 @@ I am a professional full-stack developer with 5+ years of experience. As a front
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [https://themecapital.net/](https://themecapital.net/)
-* ✉️  You can contact me at [ksumon4711@gmail.com](mailto:ksumon4711@gmail.com)
+* ✉️  You can contact me at [ksumon4711@gmail.com](mailto:email.sumonkhan@gmail.com)
 * 🚀  I'm currently working on [Upwork , Fiverr and Freelancer.com](http://#)
 * 🤝  I'm open to collaborating on your project
 
